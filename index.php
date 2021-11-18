@@ -1,6 +1,7 @@
 <?php
 // start session so that the errors can be available in this file
 session_start();
+echo "hello world";
 ?>
 
 <!DOCTYPE html>
